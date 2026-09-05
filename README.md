@@ -1,13 +1,6 @@
 Hi! I'm NatRowShark07,
 
-I have decided to join GitHub as a way to share some of my projects.
-
-Some things to know about me:
-  1) I love programming, electronics, rowing, traveling, and all of the adventures associated with these endeavors. (Never a dull moment with me around)
-  2) I enjoy learning about new things. This entails anything from obscure coding techniques to strange mechanical or electrical contraptions.
-  3) I am not super experienced, however, I am looking forward to rectifying this.
-
-I look forward to meeting other people, and I hope you find my projects as interesting as I do.
+I enjoy projects based around my many interests in unique electronics, robotics, and software. These projects all solve specific problems that I have, I hope that they can be as helpful or interesting to other people as they are to me. My first of many projects is the Airgap QR Data Transfer system for wirelessly sending files securely without an internet connection. Like many others, this project was developed out of necessity for other larger projects I am working on and is something that I use on a daily basis. I prioritize having working software, if users find any errors or issues in any of my software please log it in the comments and I will fix it as soon as I can.
 
 Cheers,
 NatRowShark07
